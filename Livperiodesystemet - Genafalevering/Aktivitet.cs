@@ -6,6 +6,8 @@ namespace Livperiodesystemet___Genafalevering
 {
     public class Aktivitet
     {
+
+        // Jeg kunne ikke nå at implementere user stories 
         public int _id;
         public int _minAlder;
         public int _maxAlder;
